@@ -1,2 +1,4 @@
-# HappyNewYear-2024
+# Happy New Year 2024
  
+
+This HTML and CSS code is designed to craft a vibrant and animated New Year celebration webpage. The HTML structure includes essential document information and links to external stylesheets and icons. The body of the page comprises div elements responsible for presenting key celebratory elements, such as a "Happy New Year" message, dynamically changing digits for the year "2023," and animated fireworks displays. The CSS file provides detailed styling, orchestrating the visual aesthetics of the webpage. Various keyframes define animations, from the gradual appearance of the New Year message to the dynamic color shifts in each digit of the year. Fireworks, represented by cracker elements, burst into animated flames, each positioned uniquely on the page, contributing to an overall festive ambiance. The coordinated use of transitions and keyframes results in an engaging and visually appealing online celebration experience.
